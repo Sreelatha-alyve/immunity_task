@@ -17,4 +17,4 @@
 
     e. A record of the device from which the user is logging in is created.
 
-    f. 
+   
