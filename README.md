@@ -13,5 +13,8 @@
 
     c. The function processes user data, including setting the profile image URL based on conditions and fetching user         permissions.It checks if the user belongs to any communities and retrieves the relevant role mappings.
 
+    d. A new access token is created for the user after successful verification.
 
-  
+    e. A record of the device from which the user is logging in is created.
+
+    f. 
